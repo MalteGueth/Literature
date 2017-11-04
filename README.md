@@ -1,2 +1,2 @@
 # Supplementary materials
-Literature references for "Electrophysiological correlates of cognitive control and emotion regulation in subjects with psychopathic traits", code snippets and additional results
+Literature references for "Neuronal correlates of Cognitive Control in multimodal recordings: Comparing EEG, EEG-fNIRS and EEG-fMRI results"
